@@ -1,0 +1,201 @@
+,Patient Name,Age,Gender,Diagnosis,Hospital Name,Admission Date,Discharge Date,Medication,Sport,Feedback,Classfication
+0,Jessica Mcgee,41,Male,Pneumonia,Mitchell And Sons,01-18-2025,2025-01-29,Aspirin,Regular,"Experiencing mild symptoms, should take prescribed meditation.",In Progress
+1,ASHLEY VELEZ,41,Female,Covid-19,RODRIGUEZ-JACKSON,04/02/2024,25/01/2025,Insulin,Never,"Reduction is effective, but dietary changes recommended.",In Progress
+2,Carrie Johnson,41,Female,Pneumonia,Davidson-Perez,25/12/2023,,Statins,Regular,Requires additional test to confirm diagnosis.,In Progress
+3,Daniel Huff,41,Female,Cold,Porter-Cox,2023-02-19,18/04/2023,Paracetamol,Sometimes,Requires additional test to confirm diagnosis.,In Progress
+4,Ruben Taylor,41,Male,Flu!,JOHNSON-REILLY,11-22-2024,,Aspirin,Regular,Requires additional test to confirm diagnosis.,In Progress
+5,DAVID WHITE,41,Female,Cold,ROJAS-LEWIS,29/03/2023,11/04/2024,Metformin,Regular,"Discharged, but must avoid physical strain.",In Progress
+6,ERICA TURNER,41,Female,Covid-19,Avery-Greene,04/09/2024,,Metformin,Never,"Severe condition, close observation needed.",High Risk
+7,COURTNEY DAVIS,41,Male,Fracture,"Howard, Allen And Wilson",2023-10-16,,Omeprazol,Regular,The patient is improving but needs more rest.,Positive
+8,KARI ORTIZ,41,Male,Cancer,WILKINS INC,2024-01-22,,Omeprazol,Sometimes,"Light improvement, but patient needs special care.",In Progress
+9,Robert Bowen,16,Female,Hypertensn,Williams-Ramirez,06-15-2023,,Statins,Never,Recovering well but needs to hydrate more frequently.,In Progress
+10,Sheri Cook,41,Female,Pneumonia,"Stephens, Mclaughlin And Chapman",04-19-2023,,Paracetamol,Never,"The healing process is slow, but no major complications.",Positive
+11,MIKE BERG,9,Female,Cold,Lopez-Smith,07-19-2024,,Ibuprof3n,Regular,Recovering well but needs to hydrate more frequently.,In Progress
+12,MOLLY BURGESS,41,Female,Flu!,Dorsey Llc,03-02-2024,2024-08-10,Paracetamol,Never,"The healing process is slow, but no major complications.",Positive
+13,LORI RAMIREZ,41,Female,Asthma,White Plc,2023-09-15,,Paracetamol,Regular,Needs immediate attention due to worsening symptoms.,High Risk
+14,Curtis Alexander,41,Male,Pneumonia,JOHNSON INC,2023-08-11,,Amoxicillin,Regular,"Reduction is effective, but dietary changes recommended.",In Progress
+15,Daniel Gutierrez,41,Female,Cold,Austin Inc,2024-03-15,03-29-2024,Paracetamol,Regular,The patient is improving but needs more rest.,Positive
+16,CAMERON RAY,41,Female,Asthma,LE-SCOTT,23/11/2023,,Amoxicillin,Never,"High fever persist, revelation recommended.",High Risk
+17,Blake Smith,7,Female,Hypertensn,Richardson Plc,18/11/2024,2024-12-22,Aspirin,Regular,"The healing process is slow, but no major complications.",Positive
+18,ANDREW MAYS,37,Female,Asthma,MILLS GROUP,2023-10-07,10-12-2024,Insulin,Never,Needs immediate attention due to worsening symptoms.,High Risk
+19,BRYAN ROBERTSON MD,41,Female,Fracture,MARTINEZ-BURKE,15/06/2024,,Omeprazol,Regular,"Reduction is effective, but dietary changes recommended.",In Progress
+20,Pamela Adams,41,Male,Migraine,"HERNANDEZ, STEIN AND CHERRY",11-09-2024,,Paracetamol,Never,"Reduction is effective, but dietary changes recommended.",In Progress
+21,CHRISTINE MCKINNEY,38,Female,Flu!,WILSON-LEE,11-02-2024,,Paracetamol,Never,"High fever persist, revelation recommended.",High Risk
+22,Brandon Martinez,41,Female,Pneumonia,Collins-Floyd,2024-01-21,01-30-2025,Metformin,Sometimes,"Severe condition, close observation needed.",High Risk
+23,Christy Bennett,17,Female,Cancer,Garrison-Howard,2024-12-17,,Metformin,Never,Requires additional test to confirm diagnosis.,In Progress
+24,LARRY BRADLEY,21,Female,Covid-19,"Nelson, Mcneil And Fernandez",2024-03-29,,Losartan,Regular,"The healing process is slow, but no major complications.",Positive
+25,Mario Russell,41,Male,Pneumonia,Hooper-Mcknight,02-21-2023,,Amoxicillin,Sometimes,"Condition is stable, but followed is nessecary.",In Progress
+26,Ronnie Rodriguez,15,Female,Covid-19,Wright-Morales,08-06-2024,,Omeprazol,Never,"The healing process is slow, but no major complications.",Positive
+27,Joseph Sanchez,41,Female,Cancer,"ONEAL, MARTINEZ AND STOUT",03-06-2024,,Amoxicillin,Never,"Feeling dizzy and weak, needs medical assistance.",Positive
+28,Shirley Rivera,8,Female,Cancer,"SOTO, MALONE AND GONZALEZ",2024-06-04,,Albuterol,Regular,"Light improvement, but patient needs special care.",In Progress
+29,MARY GRAY,41,Female,Asthma,"PETERSON, WOLF AND BROWN",07-08-2023,02/11/2024,Metformin,Sometimes,"High fever persist, revelation recommended.",High Risk
+30,Christopher Chaney,41,Female,Migraine,"Williams, James And Perez",07/12/2024,01-26-2025,Losartan,Regular,Requires additional test to confirm diagnosis.,In Progress
+31,MATTHEW HUNTER,41,Female,Cold,Wang-Harvey,05-29-2023,09/12/2023,Aspirin,Never,"Experiencing mild symptoms, should take prescribed meditation.",In Progress
+32,Susan Maxwell,35,Female,Cold,Hurst-Ellis,2024-07-31,,Aspirin,Sometimes,"Reduction is effective, but dietary changes recommended.",In Progress
+33,DANIEL BARRETT,41,Male,Migraine,Newton-Robinson,2024-07-03,21/11/2024,Metformin,Sometimes,"Discharged, but must avoid physical strain.",In Progress
+34,Rachel Burke,41,Female,Cold,Bailey Llc,09-19-2024,,Omeprazol,Sometimes,"Experiencing mild symptoms, should take prescribed meditation.",In Progress
+35,CHRISTOPHER FOLEY,25,Female,Migraine,Baker Llc,07/04/2023,,Losartan,Sometimes,"He has shown signs of recovery, but monitoring is required.",In Progress
+36,JAMIE CARROLL,34,Female,Cancer,Jones And Sons,2023-11-14,,Losartan,Never,"Light improvement, but patient needs special care.",In Progress
+37,PHILLIP WILSON,41,Male,Migraine,HOUSE-HOWELL,27/04/2024,11-15-2024,Amoxicillin,Never,"Severe condition, close observation needed.",High Risk
+38,Valerie Lopez,41,Female,Asthma,ZIMMERMAN-MERRITT,2023-03-01,10/10/2023,Amoxicillin,Never,"Condition is stable, but followed is nessecary.",In Progress
+39,EDDIE CURTIS,41,Female,Covid-19,"Anderson, Powers And Smith",07-01-2023,07-17-2024,Paracetamol,Sometimes,Requires additional test to confirm diagnosis.,In Progress
+40,REBECCA HOOD,41,Male,Asthma,WATSON-BLAIR,2023-09-16,,Insulin,Never,"Experiencing mild symptoms, should take prescribed meditation.",In Progress
+41,SUZANNE BOND,41,Female,Covid-19,PATTERSON-SCOTT,30/03/2024,,Metformin,Never,"Reduction is effective, but dietary changes recommended.",In Progress
+42,BENJAMIN DELGADO II,8,Female,Fracture,"WHITE, ADKINS AND WILLIAMS",01-14-2025,,Insulin,Regular,"Symptoms have subsided, continue with prescribed drugs.",Positive
+43,SAMANTHA YORK,41,Male,Pneumonia,TUCKER-PATTERSON,2024-01-12,,Amoxicillin,Never,"Feeling dizzy and weak, needs medical assistance.",Positive
+44,EDWARD JONES,41,Male,Diabetes,Hart Group,08-16-2023,,Amoxicillin,Regular,The patient is improving but needs more rest.,Positive
+45,KELLY CHAMBERS,41,Female,Pneumonia,MORRIS-HAMILTON,05-06-2023,05-17-2024,Ibuprof3n,Never,"He has shown signs of recovery, but monitoring is required.",In Progress
+46,Karen Ryan,41,Female,Cold,Houston Inc,06/06/2024,,Aspirin,Sometimes,"High fever persist, revelation recommended.",High Risk
+47,Dustin Harrison,15,Male,Flu!,FOX-RAMIREZ,2023-07-29,,Albuterol,Regular,"Discharged, but must avoid physical strain.",In Progress
+48,Mandy Mann,41,Male,Covid-19,"WELLS, GUZMAN AND DAUGHERTY",2024-03-01,08/10/2024,Statins,Never,Recovering well but needs to hydrate more frequently.,In Progress
+49,DIANE WOODS,2,Female,Asthma,PEREZ GROUP,2024-10-11,2024-10-13,Paracetamol,Sometimes,"Severe condition, close observation needed.",High Risk
+50,Jeff Crawford,41,Female,Cold,Hernandez And Sons,21/11/2023,2024-12-07,Albuterol,Never,"Experiencing mild symptoms, should take prescribed meditation.",In Progress
+51,CATHERINE VASQUEZ,41,Male,Covid-19,PEARSON LLC,07/06/2024,,Losartan,Never,"Light improvement, but patient needs special care.",In Progress
+52,Laura Nguyen,41,Female,Fracture,Lang-Thompson,08-23-2024,,Albuterol,Regular,"He has shown signs of recovery, but monitoring is required.",In Progress
+53,PAMELA LINDSEY,6,Female,Asthma,CONTRERAS LLC,01/05/2023,,Paracetamol,Regular,"Condition is stable, but followed is nessecary.",In Progress
+54,CRYSTAL FLEMING,38,Female,Cancer,HENRY AND SONS,05-02-2024,,Aspirin,Never,"Feeling dizzy and weak, needs medical assistance.",Positive
+55,Michelle Johnston,41,Female,Hypertensn,Davis-Williams,07-21-2024,,Paracetamol,Never,"Feeling dizzy and weak, needs medical assistance.",Positive
+56,ANDREW KENT,41,Female,Cold,"Flynn, Bell And Beasley",2024-09-16,11-19-2024,Albuterol,Never,"Condition is stable, but followed is nessecary.",In Progress
+57,Rhonda Welch,41,Female,Flu!,Whitehead-Torres,2024-12-25,,Aspirin,Regular,Recovering well but needs to hydrate more frequently.,In Progress
+58,DAVID REYNOLDS,41,Male,Cancer,CARROLL-THOMAS,27/12/2023,23/04/2024,Metformin,Never,"Feeling dizzy and weak, needs medical assistance.",Positive
+59,Anthony Villanueva,41,Male,Pneumonia,CARROLL INC,11/06/2023,,Insulin,Sometimes,Recovering well but needs to hydrate more frequently.,In Progress
+60,Angela Lopez,41,Female,Migraine,"Shaw, Zimmerman And Murphy",2025-01-16,2025-01-23,Omeprazol,Regular,The patient is improving but needs more rest.,Positive
+61,GREGORY BRADLEY,27,Female,Cancer,Sampson Ltd,01/01/2024,2024-11-15,Metformin,Never,"Discharged, but must avoid physical strain.",In Progress
+62,DYLAN FOSTER,41,Female,Fracture,"MILLER, BRADFORD AND CRANE",2023-12-22,,Amoxicillin,Never,"Severe condition, close observation needed.",High Risk
+63,Marilyn Evans,41,Female,Covid-19,"WATSON, PADILLA AND JOHNSON",08-20-2024,,Amoxicillin,Sometimes,"Feeling dizzy and weak, needs medical assistance.",Positive
+64,Katelyn Lane,41,Male,Hypertensn,Williams Inc,02-02-2025,,Insulin,Sometimes,"Reduction is effective, but dietary changes recommended.",In Progress
+65,Christina Douglas,41,Female,Covid-19,Santiago Llc,20/08/2024,05/02/2025,Omeprazol,Regular,"High fever persist, revelation recommended.",High Risk
+66,Phillip Rivera,41,Female,Hypertensn,Dickson-Benton,07-19-2024,,Statins,Sometimes,"He has shown signs of recovery, but monitoring is required.",In Progress
+67,Mr Kenneth Morton,41,Female,Asthma,Wood-Green,05-16-2023,,Statins,Regular,"Experiencing mild symptoms, should take prescribed meditation.",In Progress
+68,KIARA ADAMS,41,Female,Pneumonia,"HARTMAN, SCOTT AND MURPHY",01-09-2025,,Amoxicillin,Sometimes,"High fever persist, revelation recommended.",High Risk
+69,Brittany Russell,41,Female,Diabetes,FISCHER PLC,20/08/2024,,Omeprazol,Never,"Experiencing mild symptoms, should take prescribed meditation.",In Progress
+70,DAVID NICHOLS,36,Male,Hypertensn,Kramer Ltd,07-02-2023,,Ibuprof3n,Sometimes,"He has shown signs of recovery, but monitoring is required.",In Progress
+71,Jeffrey Reid,13,Male,Migraine,"PHILLIPS, CALDWELL AND CRAWFORD",2024-12-18,2024-12-23,Metformin,Never,Recovering well but needs to hydrate more frequently.,In Progress
+72,GARRETT MOORE,41,Male,Cold,"Bridges, Williams And Koch",31/01/2025,,Statins,Never,Requires additional test to confirm diagnosis.,In Progress
+73,JASON THOMPSON,28,Male,Cancer,PEREZ-FISHER,12-28-2024,,Albuterol,Regular,"Severe condition, close observation needed.",High Risk
+74,BRADLEY WHEELER,1,Female,Diabetes,ROBERTS INC,27/07/2023,,Omeprazol,Never,"Experiencing mild symptoms, should take prescribed meditation.",In Progress
+75,Mrs Sara Martinez,41,Male,Asthma,"Dillon, King And Lewis",11/03/2023,,Losartan,Sometimes,"Light improvement, but patient needs special care.",In Progress
+76,JAMES JONES,41,Female,Pneumonia,DAVIS-HALL,03/05/2024,07/02/2025,Albuterol,Never,"Experiencing mild symptoms, should take prescribed meditation.",In Progress
+77,ALAN SINGLETON,41,Male,Cancer,PHAM INC,2023-04-07,,Insulin,Sometimes,"Discharged, but must avoid physical strain.",In Progress
+78,JASMINE BROWN,41,Female,Covid-19,"Bennett, Henry And George",07-26-2023,10/06/2024,Albuterol,Regular,Recovering well but needs to hydrate more frequently.,In Progress
+79,Eugene Winters,7,Female,Diabetes,"Gardner, Case And Taylor",05-08-2024,,Amoxicillin,Sometimes,"Experiencing mild symptoms, should take prescribed meditation.",In Progress
+80,PAUL BRYANT,31,Female,Hypertensn,"MALONE, RIVERS AND MILLS",09/08/2024,,Amoxicillin,Regular,"Severe condition, close observation needed.",High Risk
+81,KIMBERLY FISHER,41,Male,Cancer,PERRY-EVANS,03-13-2024,,Metformin,Regular,The patient is improving but needs more rest.,Positive
+82,Carrie Hamilton,41,Female,Asthma,SCHWARTZ-PARKER,15/05/2023,,Losartan,Regular,"Light improvement, but patient needs special care.",In Progress
+83,JILL DAVIS,26,Male,Hypertensn,Mendoza Plc,2024-04-28,,Ibuprof3n,Regular,"Discharged, but must avoid physical strain.",In Progress
+84,Jerry Oconnor,41,Female,Flu!,NGUYEN-CLINE,10-27-2024,,Losartan,Never,"High fever persist, revelation recommended.",High Risk
+85,Denise Gonzalez,33,Female,Fracture,Mills-Hayes,07-31-2023,,Metformin,Regular,Requires additional test to confirm diagnosis.,In Progress
+86,MATTHEW EVANS,41,Female,Hypertensn,CRUZ LTD,2024-09-04,,Losartan,Sometimes,The patient is improving but needs more rest.,Positive
+87,James Lopez,15,Male,Asthma,"HUNT, REYES AND CASTANEDA",2024-04-22,,Aspirin,Regular,"Reduction is effective, but dietary changes recommended.",In Progress
+88,JEFFREY YOUNG,41,Male,Hypertensn,WILLIS-PITTMAN,01/10/2024,,Insulin,Sometimes,Requires additional test to confirm diagnosis.,In Progress
+89,BETHANY GONZALEZ,41,Male,Flu!,Nelson-Rodriguez,08-08-2023,,Losartan,Never,Requires additional test to confirm diagnosis.,In Progress
+90,Terry Brown,7,Female,Hypertensn,"LOPEZ, ROBERTSON AND MARSH",06-01-2024,,Amoxicillin,Sometimes,"Light improvement, but patient needs special care.",In Progress
+91,Colleen Solomon,41,Female,Pneumonia,WHITE-JONES,02-22-2024,,Ibuprof3n,Regular,"Experiencing mild symptoms, should take prescribed meditation.",In Progress
+92,Teresa Martinez,22,Female,Hypertensn,"Snow, Hoffman And Dyer",24/05/2023,,Amoxicillin,Sometimes,"Condition is stable, but followed is nessecary.",In Progress
+93,JONATHAN JENKINS,41,Male,Cancer,"EVANS, SMITH AND HERNANDEZ",2024-11-18,,Aspirin,Regular,Needs immediate attention due to worsening symptoms.,High Risk
+94,JILLIAN LEE,41,Female,Fracture,TAYLOR-CORDOVA,2025-02-01,,Insulin,Regular,"Experiencing mild symptoms, should take prescribed meditation.",In Progress
+95,Brent Stevens,41,Female,Fracture,Vincent-Madden,2024-05-20,08-26-2024,Ibuprof3n,Never,"Feeling dizzy and weak, needs medical assistance.",Positive
+96,David Miller,41,Female,Diabetes,Mendez Llc,07-11-2024,,Omeprazol,Regular,"Discharged, but must avoid physical strain.",In Progress
+97,Renee Hale,41,Female,Cold,Whitaker-Valdez,2025-01-17,,Omeprazol,Sometimes,"High fever persist, revelation recommended.",High Risk
+98,MISS MICHELLE CARR,41,Female,Hypertensn,MCDOWELL INC,2024-02-22,,Albuterol,Sometimes,Recovering well but needs to hydrate more frequently.,In Progress
+99,BRADY JOHNS,41,Male,Cold,"Williams, Fox And Vazquez",2023-09-16,,Omeprazol,Regular,"Symptoms have subsided, continue with prescribed drugs.",Positive
+100,Anna Wong,41,Female,Hypertensn,HAYNES GROUP,28/11/2024,,Statins,Never,"Feeling dizzy and weak, needs medical assistance.",Positive
+101,Jeanette Ross,8,Male,Cancer,Sloan-Patel,2023-11-02,,Amoxicillin,Never,Requires additional test to confirm diagnosis.,In Progress
+102,NICOLE YOUNG,9,Female,Cold,PADILLA PLC,2024-05-21,,Ibuprof3n,Regular,"Reduction is effective, but dietary changes recommended.",In Progress
+103,NANCY PEREZ,41,Male,Cancer,MYERS LLC,26/05/2023,,Omeprazol,Never,"Feeling dizzy and weak, needs medical assistance.",Positive
+104,DR CHRISTINE LITTLE,41,Female,Fracture,TAYLOR-MARTIN,02-17-2024,10-27-2024,Albuterol,Sometimes,Requires additional test to confirm diagnosis.,In Progress
+105,Juan Peters,11,Female,Migraine,"Ruiz, Perry And Bradley",08/06/2023,,Albuterol,Regular,"High fever persist, revelation recommended.",High Risk
+106,KATHERINE MARSHALL,41,Male,Asthma,Wheeler-Watkins,15/12/2023,,Omeprazol,Never,"The healing process is slow, but no major complications.",Positive
+107,Lisa Mitchell,41,Female,Migraine,BUCK GROUP,02-07-2024,,Aspirin,Never,"Condition is stable, but followed is nessecary.",In Progress
+108,SAMANTHA ROSE,41,Male,Fracture,"WHITNEY, HALL AND MIDDLETON",10-09-2023,,Losartan,Never,"The healing process is slow, but no major complications.",Positive
+109,Laura Price,41,Female,Asthma,MOORE PLC,26/04/2023,28/01/2024,Metformin,Regular,"Symptoms have subsided, continue with prescribed drugs.",Positive
+110,STACEY JONES,41,Male,Covid-19,"TORRES, KENNEDY AND OWENS",2023-05-31,,Metformin,Sometimes,"Severe condition, close observation needed.",High Risk
+111,DR GLENN BALLARD,18,Female,Hypertensn,Brown-Harrison,09-17-2024,26/10/2024,Metformin,Regular,"High fever persist, revelation recommended.",High Risk
+112,ANGELA TAYLOR,29,Female,Flu!,"Gallagher, Wade And Rivera",02-07-2025,,Insulin,Never,"Feeling dizzy and weak, needs medical assistance.",Positive
+113,Matthew Choi,41,Female,Diabetes,JORDAN-ALLEN,2024-07-10,2024-12-24,Albuterol,Never,"He has shown signs of recovery, but monitoring is required.",In Progress
+114,Denise Shah,41,Female,Diabetes,"PHELPS, HERNANDEZ AND WILLIAMS",31/07/2023,,Amoxicillin,Never,"High fever persist, revelation recommended.",High Risk
+115,JENNIFER YANG,31,Male,Cold,Hubbard-Robles,04-23-2024,,Albuterol,Never,The patient is improving but needs more rest.,Positive
+116,Mary Mullen,41,Female,Flu!,Edwards Ltd,2025-01-28,,Insulin,Sometimes,"Light improvement, but patient needs special care.",In Progress
+117,Nancy Peterson,35,Male,Flu!,"RAY, WARD AND ZUNIGA",25/01/2024,,Albuterol,Regular,Needs immediate attention due to worsening symptoms.,High Risk
+118,Keith Johnson,41,Male,Migraine,"Pratt, Garrett And Lee",11/03/2023,,Aspirin,Regular,"Feeling dizzy and weak, needs medical assistance.",Positive
+119,KENNETH CAMPBELL,41,Female,Hypertensn,"Rodriguez, Zavala And Arroyo",14/12/2023,,Statins,Regular,Needs immediate attention due to worsening symptoms.,High Risk
+120,Andrew Phelps,37,Female,Cancer,Ramirez Ltd,2023-07-29,,Amoxicillin,Sometimes,"Condition is stable, but followed is nessecary.",In Progress
+121,LYNN ROSE,14,Female,Hypertensn,Ortiz-Fleming,04/01/2024,15/01/2025,Metformin,Regular,"Feeling dizzy and weak, needs medical assistance.",Positive
+122,Dustin Barajas,41,Female,Hypertensn,"Cantu, Thomas And Smith",28/09/2024,,Paracetamol,Never,"Condition is stable, but followed is nessecary.",In Progress
+123,PATRICK SMALL,41,Female,Cancer,Clark-Price,2024-06-29,,Paracetamol,Sometimes,"Feeling dizzy and weak, needs medical assistance.",Positive
+124,Jamie Williams,41,Male,Fracture,Miller-Kim,01-07-2025,,Omeprazol,Regular,"Feeling dizzy and weak, needs medical assistance.",Positive
+125,KRISTINA PRICE,41,Female,Pneumonia,"Jackson, Scott And Aguirre",10-14-2024,,Insulin,Sometimes,"Discharged, but must avoid physical strain.",In Progress
+126,SHARON WALKER,41,Female,Covid-19,Quinn Plc,16/09/2023,,Losartan,Regular,"The healing process is slow, but no major complications.",Positive
+127,Dale Nichols Dvm,41,Male,Covid-19,COLEMAN GROUP,19/06/2024,,Paracetamol,Never,"High fever persist, revelation recommended.",High Risk
+128,CHRISTINA BUTLER,4,Female,Covid-19,Henry-Hopkins,08-03-2023,2023-10-15,Losartan,Never,The patient is improving but needs more rest.,Positive
+129,GEORGE HALL,5,Male,Cancer,"Franco, Hart And Gonzalez",2023-11-04,,Metformin,Regular,Recovering well but needs to hydrate more frequently.,In Progress
+130,JOHN RYAN,41,Male,Covid-19,"SANDERS, CARLSON AND ATKINSON",2024-04-13,,Statins,Never,"Condition is stable, but followed is nessecary.",In Progress
+131,Hannah Lee,41,Male,Hypertensn,"Orr, Jones And Griffin",05-23-2024,,Ibuprof3n,Regular,Requires additional test to confirm diagnosis.,In Progress
+132,Joshua Rosario,41,Male,Diabetes,"Allison, Chung And Zuniga",2023-12-25,,Albuterol,Never,"High fever persist, revelation recommended.",High Risk
+133,TRAVIS REID,30,Female,Cold,"Walker, Fisher And Beck",08-14-2023,2024-02-01,Paracetamol,Regular,Recovering well but needs to hydrate more frequently.,In Progress
+134,DENNIS SAWYER,41,Female,Pneumonia,"MEYER, MOORE AND BOYD",03/07/2023,,Losartan,Regular,"Experiencing mild symptoms, should take prescribed meditation.",In Progress
+135,Charles Berry,3,Female,Fracture,"Houston, Williamson And Snyder",16/08/2024,,Aspirin,Sometimes,"The healing process is slow, but no major complications.",Positive
+136,John Tanner,41,Male,Hypertensn,"Henderson, Bell And Carter",08/10/2023,,Insulin,Never,"Symptoms have subsided, continue with prescribed drugs.",Positive
+137,RICHARD WOODS,41,Female,Covid-19,"Roberts, Wilson And Dixon",17/12/2023,,Albuterol,Regular,"Experiencing mild symptoms, should take prescribed meditation.",In Progress
+138,Vanessa Williams,35,Male,Asthma,DAVIDSON-HARRIS,06-08-2024,11-13-2024,Metformin,Sometimes,"Condition is stable, but followed is nessecary.",In Progress
+139,CONNIE LI,39,Male,Fracture,House-Mueller,05-04-2024,,Aspirin,Never,"Feeling dizzy and weak, needs medical assistance.",Positive
+140,Jordan Bolton,41,Female,Migraine,ANDREWS-KNIGHT,06-16-2024,,Losartan,Sometimes,The patient is improving but needs more rest.,Positive
+141,Michael Zuniga,19,Male,Pneumonia,"WHITE, WALLACE AND MATHIS",2024-01-14,02-12-2024,Statins,Sometimes,Needs immediate attention due to worsening symptoms.,High Risk
+142,KURT SMITH,41,Male,Migraine,Fields Llc,02-23-2023,,Losartan,Sometimes,Recovering well but needs to hydrate more frequently.,In Progress
+143,Matthew Barron,41,Female,Cold,"Wallace, Patterson And Jones",25/10/2023,,Amoxicillin,Regular,"Reduction is effective, but dietary changes recommended.",In Progress
+144,TAYLOR CARLSON,41,Male,Migraine,WELCH-JAMES,2023-04-30,26/08/2023,Paracetamol,Sometimes,"He has shown signs of recovery, but monitoring is required.",In Progress
+145,Michael Galvan,41,Female,Migraine,CRAIG-WAGNER,12-15-2023,,Statins,Regular,"Symptoms have subsided, continue with prescribed drugs.",Positive
+146,MICHELLE REYNOLDS,41,Female,Cold,"Craig, Thomas And Elliott",25/11/2023,,Omeprazol,Sometimes,"The healing process is slow, but no major complications.",Positive
+147,ROGER CRUZ,41,Female,Hypertensn,"Page, Daniels And Vance",30/09/2024,,Ibuprof3n,Never,The patient is improving but needs more rest.,Positive
+148,SANDRA SMITH,32,Male,Fracture,Alvarado-Baldwin,2024-02-03,,Albuterol,Never,"Severe condition, close observation needed.",High Risk
+149,Dr Raymond Conley,41,Male,Cold,"Duffy, Lewis And Simpson",2023-12-08,,Aspirin,Never,"He has shown signs of recovery, but monitoring is required.",In Progress
+150,Misty Brown,12,Male,Fracture,Perry Ltd,2023-06-07,,Paracetamol,Regular,Requires additional test to confirm diagnosis.,In Progress
+151,Dr Christina Kidd Dvm,41,Female,Cancer,HALL AND SONS,24/10/2024,,Omeprazol,Never,"Feeling dizzy and weak, needs medical assistance.",Positive
+152,RITA BROWN,41,Male,Migraine,Rice Llc,2024-09-08,,Paracetamol,Regular,"Discharged, but must avoid physical strain.",In Progress
+153,TONYA ALVAREZ,41,Female,Covid-19,"HOWELL, GAMBLE AND SMITH",06-25-2024,,Paracetamol,Regular,"High fever persist, revelation recommended.",High Risk
+154,Ann Ruiz,41,Male,Covid-19,"Bowen, Wright And Black",23/10/2023,,Albuterol,Sometimes,"Reduction is effective, but dietary changes recommended.",In Progress
+155,Mindy Martinez,41,Female,Diabetes,THOMAS-YOUNG,10-09-2024,,Albuterol,Regular,Recovering well but needs to hydrate more frequently.,In Progress
+156,Alyssa Mitchell,41,Male,Cancer,RUSSELL-POWERS,10-28-2024,2024-11-04,Insulin,Regular,"Experiencing mild symptoms, should take prescribed meditation.",In Progress
+157,Benjamin Mitchell,41,Female,Pneumonia,Smith Plc,22/05/2024,,Paracetamol,Sometimes,"Experiencing mild symptoms, should take prescribed meditation.",In Progress
+158,JENNIFER MCCORMICK,41,Male,Diabetes,Howell Ltd,30/12/2024,,Statins,Sometimes,"Light improvement, but patient needs special care.",In Progress
+159,PATRICK MERRITT,41,Female,Flu!,COLLIER-GUTIERREZ,03-07-2024,,Albuterol,Regular,"Experiencing mild symptoms, should take prescribed meditation.",In Progress
+160,Jeffery Watkins,24,Male,Covid-19,"NELSON, MARTIN AND ROBERTS",09/04/2023,,Paracetamol,Regular,Needs immediate attention due to worsening symptoms.,High Risk
+161,Brent Anderson,41,Male,Fracture,CASTRO-ZUNIGA,15/03/2024,,Omeprazol,Never,"He has shown signs of recovery, but monitoring is required.",In Progress
+162,David Mitchell,41,Female,Pneumonia,Robles Group,2024-09-19,01-11-2025,Amoxicillin,Sometimes,"Severe condition, close observation needed.",High Risk
+163,JENNIFER IBARRA,0,Male,Fracture,"Phillips, Warner And Parks",24/04/2023,,Paracetamol,Regular,Needs immediate attention due to worsening symptoms.,High Risk
+164,JACOB COLLIER,41,Female,Cold,WALKER AND SONS,16/01/2024,,Aspirin,Never,"Condition is stable, but followed is nessecary.",In Progress
+165,LISA EVANS,41,Male,Cancer,HOLLOWAY LTD,26/01/2025,,Albuterol,Sometimes,"High fever persist, revelation recommended.",High Risk
+166,CHRISTOPHER GARCIA,41,Female,Asthma,Newman Ltd,03-12-2024,08-14-2024,Metformin,Regular,"Condition is stable, but followed is nessecary.",In Progress
+167,Debra Villa,17,Female,Flu!,Taylor-Roberts,2024-11-15,,Ibuprof3n,Regular,"Light improvement, but patient needs special care.",In Progress
+168,KELLY ARIAS,12,Female,Diabetes,HILL LLC,2023-10-09,2024-11-28,Albuterol,Regular,"Reduction is effective, but dietary changes recommended.",In Progress
+169,Stacey Escobar,41,Male,Hypertensn,Rowe Ltd,2023-11-26,,Omeprazol,Regular,"Reduction is effective, but dietary changes recommended.",In Progress
+170,Angel Crosby Md,41,Female,Cancer,Perez-Burton,09-20-2024,,Aspirin,Regular,Needs immediate attention due to worsening symptoms.,High Risk
+171,KYLE OLIVER,40,Female,Flu!,DRAKE-ALVAREZ,22/10/2023,,Insulin,Regular,"High fever persist, revelation recommended.",High Risk
+172,CHASE HAMILTON,2,Female,Pneumonia,Clark-Marshall,06/11/2024,,Metformin,Sometimes,"Reduction is effective, but dietary changes recommended.",In Progress
+173,BENJAMIN GONZALEZ,41,Male,Cold,GARRETT-DIXON,2025-01-13,,Omeprazol,Regular,Requires additional test to confirm diagnosis.,In Progress
+174,ANGELA HARRIS,41,Female,Migraine,Carson Ltd,05-19-2023,,Albuterol,Regular,Requires additional test to confirm diagnosis.,In Progress
+175,TAMMY MUNOZ,41,Female,Pneumonia,Crawford Group,26/12/2024,,Amoxicillin,Never,Requires additional test to confirm diagnosis.,In Progress
+176,MATTHEW WALKER,41,Female,Fracture,Kemp Llc,2023-03-17,2024-03-04,Paracetamol,Regular,"High fever persist, revelation recommended.",High Risk
+177,BRIAN ESTES,41,Female,Pneumonia,Martin Ltd,02-11-2024,,Albuterol,Never,"Symptoms have subsided, continue with prescribed drugs.",Positive
+178,MICHAEL JACKSON,41,Female,Migraine,"Anderson, Howard And Franco",06-19-2023,,Statins,Sometimes,"Severe condition, close observation needed.",High Risk
+179,THOMAS ROGERS,41,Female,Diabetes,Melendez-Bell,2024-11-16,,Albuterol,Never,Requires additional test to confirm diagnosis.,In Progress
+180,Travis Johns,41,Female,Flu!,DAVIS PLC,2024-12-07,,Insulin,Regular,"Severe condition, close observation needed.",High Risk
+181,KRISTIN BARNES,41,Female,Pneumonia,Underwood-Cohen,01-04-2025,,Paracetamol,Sometimes,"Severe condition, close observation needed.",High Risk
+182,LAURA THOMPSON,41,Female,Fracture,MCKEE INC,2023-04-13,,Amoxicillin,Sometimes,Needs immediate attention due to worsening symptoms.,High Risk
+183,Kristopher Gray,22,Female,Cancer,BECK GROUP,05/11/2023,02-03-2025,Omeprazol,Never,"Light improvement, but patient needs special care.",In Progress
+184,Stephen Stone,41,Female,Asthma,Wright Inc,12-04-2024,,Statins,Regular,"Condition is stable, but followed is nessecary.",In Progress
+185,STEPHEN BAKER,41,Female,Hypertensn,PRUITT LTD,01-02-2025,,Statins,Never,"Condition is stable, but followed is nessecary.",In Progress
+186,CHRISTOPHER YOUNG,41,Male,Asthma,COLON INC,2024-05-08,10-16-2024,Paracetamol,Sometimes,"Condition is stable, but followed is nessecary.",In Progress
+187,Ryan Maddox,41,Female,Hypertensn,"MARTINEZ, PUGH AND FLETCHER",23/09/2023,,Omeprazol,Sometimes,Needs immediate attention due to worsening symptoms.,High Risk
+188,WILLIAM CALDWELL,35,Female,Fracture,"JACKSON, MURPHY AND GARCIA",08-20-2024,09-13-2024,Metformin,Sometimes,"Condition is stable, but followed is nessecary.",In Progress
+189,CONNIE MARTINEZ,41,Male,Cold,Oneal And Sons,07-05-2024,06/12/2024,Insulin,Sometimes,"Experiencing mild symptoms, should take prescribed meditation.",In Progress
+190,Stephanie Wolf,20,Female,Flu!,MCCANN-CAREY,04-15-2023,,Amoxicillin,Sometimes,"The healing process is slow, but no major complications.",Positive
+191,CRYSTAL JACOBS,41,Female,Asthma,"Gallegos, Delgado And Morton",05-03-2023,,Paracetamol,Regular,"The healing process is slow, but no major complications.",Positive
+192,DAVID HALL,41,Male,Diabetes,"CHEN, GREEN AND BAKER",2023-09-26,,Statins,Sometimes,"He has shown signs of recovery, but monitoring is required.",In Progress
+193,Tyler Phillips,23,Female,Fracture,Carter And Sons,11/05/2024,,Metformin,Regular,"He has shown signs of recovery, but monitoring is required.",In Progress
+194,Katherine Thompson,41,Female,Covid-19,"Sanchez, Pugh And Mcconnell",2024-03-01,,Metformin,Sometimes,Recovering well but needs to hydrate more frequently.,In Progress
+195,William Lewis,10,Male,Flu!,TYLER GROUP,2023-11-12,,Paracetamol,Never,Requires additional test to confirm diagnosis.,In Progress
+196,BRIAN WILLIAMS,41,Male,Covid-19,"CUNNINGHAM, FORD AND WARD",04-20-2023,,Losartan,Sometimes,Recovering well but needs to hydrate more frequently.,In Progress
+197,CRYSTAL JOHNSON,41,Female,Diabetes,SPEARS-MONTGOMERY,2023-05-02,,Statins,Regular,"Condition is stable, but followed is nessecary.",In Progress
+198,Kathy Johnson,41,Female,Asthma,"Drake, Henry And Ray",2024-04-12,,Ibuprof3n,Regular,"Discharged, but must avoid physical strain.",In Progress
+199,TRACY GREEN,41,Female,Migraine,Davis-Jones,2024-10-20,02-07-2025,Insulin,Never,The patient is improving but needs more rest.,Positive
